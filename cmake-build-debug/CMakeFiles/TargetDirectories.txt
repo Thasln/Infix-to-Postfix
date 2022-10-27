@@ -1,3 +1,0 @@
-C:/Users/Asus/Desktop/C/2. Sınıf/Odev_3 (Infix-to-Postfix)/21100011065_Odev3/cmake-build-debug/CMakeFiles/untitled10.dir
-C:/Users/Asus/Desktop/C/2. Sınıf/Odev_3 (Infix-to-Postfix)/21100011065_Odev3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Asus/Desktop/C/2. Sınıf/Odev_3 (Infix-to-Postfix)/21100011065_Odev3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
